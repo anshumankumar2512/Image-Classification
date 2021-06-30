@@ -1,0 +1,2 @@
+# Image Classification using Cifar-10 dataset
+### CIFAR-10 dataset consists of 60000 32x32 color images in 10 classes, with 6000 images per class. There are 50000 training and 10000 test images. The main.py script performs image classification to predict correct class for every image in the test dataset. For reducing dimensionality, Principal Component Analysis is deployed and the Support Vector Machine is used as the classifier. 
